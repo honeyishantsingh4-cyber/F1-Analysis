@@ -15,7 +15,6 @@ A data analysis project built using Python, Pandas, and Matplotlib to explore hi
 - 🌍 Most frequently used Formula 1 circuits
 - 🌎 Countries that hosted the most races
 - 📊 Pole Position vs Race Wins analysis
-- 1[image alt](https://github.com/honeyishantsingh4-cyber/F1-Analysis/blob/64331b6489b0357a9e7f3124d191253455e83031/Screenshot%202026-07-31%20172918.png)
 - 🔥 Lewis Hamilton vs Max Verstappen (2021 Season)
 
 ---
